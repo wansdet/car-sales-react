@@ -1,0 +1,6 @@
+export { default as Footer } from './Footer'
+export { default as Header } from './Header'
+export { default as ContactUs } from './footer/ContactUs'
+export { default as Newsletter } from './footer/Newsletter'
+export { default as OpeningHours } from './footer/OpeningHours'
+export { default as SocialMedia } from './footer/SocialMedia'
